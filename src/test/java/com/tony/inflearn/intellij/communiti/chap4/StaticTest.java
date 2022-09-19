@@ -10,5 +10,6 @@ public class StaticTest {
     * */
     @Test
     public void name(){
+
     }
 }
