@@ -1,6 +1,6 @@
-package src.main.java.com.ktony.inflearn.intelij.chap6.extract;
+package com.ktony.inflearn.intelij.chap6.extract;
 
-import src.main.java.com.ktony.inflearn.intelij.chap6.code.Team;
+import com.ktony.inflearn.intelij.chap6.code.Team;
 
 public class InnerClass {
 

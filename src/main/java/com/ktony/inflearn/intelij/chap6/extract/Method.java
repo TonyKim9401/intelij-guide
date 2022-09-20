@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap6.extract;
+package com.ktony.inflearn.intelij.chap6.extract;
 
 import java.util.List;
 

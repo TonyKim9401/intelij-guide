@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap3.text;
+package com.ktony.inflearn.intelij.chap3.text;
 
 public class ProjectFindAndReplace {
     /*

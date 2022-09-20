@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap3.text.spetcial.sp2;
+package com.ktony.inflearn.intelij.chap3.text.spetcial.sp2;
 
 public class Member {
     /*

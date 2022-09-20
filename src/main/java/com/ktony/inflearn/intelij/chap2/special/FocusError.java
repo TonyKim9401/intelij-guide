@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap2.special;
+package com.ktony.inflearn.intelij.chap2.special;
 
 public class FocusError {
     public void moveError(){

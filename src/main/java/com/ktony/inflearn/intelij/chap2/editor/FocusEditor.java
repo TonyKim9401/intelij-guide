@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap2.editor;
+package com.ktony.inflearn.intelij.chap2.editor;
 
 public class FocusEditor {
     public void focus() {

@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap6.code;
+package com.ktony.inflearn.intelij.chap6.code;
 
 /*
  * [F6] 내부 클래스를 외부 클래스로 뽑아냄

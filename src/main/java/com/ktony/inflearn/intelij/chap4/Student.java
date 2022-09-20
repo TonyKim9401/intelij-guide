@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap4;
+package com.ktony.inflearn.intelij.chap4;
 
 public class Student {
 

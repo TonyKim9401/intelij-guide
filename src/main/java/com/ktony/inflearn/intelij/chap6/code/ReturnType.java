@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap6.code;
+package com.ktony.inflearn.intelij.chap6.code;
 
 public class ReturnType {
     /*

@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.chap1.lineedit;
+package com.ktony.inflearn.intelij.chap1.lineedit;
 
 public class LineJoin {
     /*

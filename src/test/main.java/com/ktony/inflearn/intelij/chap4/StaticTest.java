@@ -1,4 +1,4 @@
-package src.test.java.com.tony.inflearn.intellij.communiti.chap4;
+package com.ktony.inflearn.intelij.chap4;
 
 
 import org.junit.jupiter.api.Test;

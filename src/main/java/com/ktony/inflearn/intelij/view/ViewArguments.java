@@ -1,4 +1,4 @@
-package src.main.java.com.ktony.inflearn.intelij.view;
+package com.ktony.inflearn.intelij.view;
 
 public class ViewArguments {
     public void viewArguments(){
